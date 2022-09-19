@@ -54,8 +54,8 @@ def notice():
 
 	runtxt("\n\033[0;99mYOU ARE NOT PREMIUM USER ")
 	runtxt("\033[0;93m SEND THIS KEY TO ADMIN >> %s%s"%(G,basesplit))
-	runtxt("\033[0;93m ADMIN FACEBOOK >> \033[0;92mMAINUL-ISLAM-ROCK-420\033[0;92m")
-	subprocess.check_output(["am", "start", "https://www.facebook.com/md12https://www.facebook.com/Mainul.Islam.Official.Info"])
+	runtxt("\033[0;93m ADMIN WHATSAPP >> \033[0;92mMAINUL-ISLAM-ROCK-420\033[0;92m")
+	subprocess.check_output(["am", "start", "https://wa.me/+8801308850528?text="])
 
 
         
