@@ -113,11 +113,11 @@ class Main:
      \033[1;95m[☠️] \033[1;95mTOOLS    : UID CLONE
 \033[96;1m🎭=======================☠️☠️☠️☠️=======================🎭
 """)
-		print("%s [☠️] %sTOOL NAME : %sUID CLON"%(G,R,G,Y,G))
-		print("%s [☠️] %sVERSION   : %s1.0"%(G,R,G,Y,G))
-		print("%s [☠️] %sYOUR KEY  : %s%s"%(G,R,G,Y,G,key))
-		print("%s [☠️] %sSTATUS    : %s"%(G,R,G,Y,stat)) 
-		print("\n\x1b[1;93m🎭=========================\033[96;1m=========================🎭 ")
+		print("%s [%sâ€¢%s] %sTOOL NAME : %sUID CLON"%(G,R,G,Y,G))
+		print("%s [%sâ€¢%s] %sVERSION   : %s1.0"%(G,R,G,Y,G))
+		print("%s [%sâ€¢%s] %sYOUR KEY  : %s%s"%(G,R,G,Y,G,key))
+		print("%s [%sâ€¢%s] %sSTATUS    : %s"%(G,R,G,Y,stat)) 
+		print("\n\x1b[1;93m••••••••••••••••••••••••••••••••••••••••••••••••••••••••  ")
 		print("\n%s [%s1%s]%s CRACK RANDOM FB ID 2008-11 %s(FREE)"%(G,R,G,Y,W))
 		print("%s [%s2%s]%s CRACK RANDOM FB ID 2004-5 %s(PRO) V1"%(G,R,G,Y,G))
 		print("%s [%s3%s]%s CRACK RANDOM FB ID 2004-5 %s(PRO) V2"%(G,R,G,Y,G))
