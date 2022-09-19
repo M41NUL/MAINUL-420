@@ -318,7 +318,7 @@ class Main:
 	def email(self):
 		x = 111
 		xx = 999
-		nam = input("%s [?] TYPE A NAME %s(EX:TAHIDUL ): "%(Y,G))
+		nam = input("%s [?] TYPE A NAME %s(EX: MAINUL ): "%(Y,G))
 		nam = nam.replace(" ", "")
 		print("%s EXAMPLE  : %s@gmail.com, @yahoo.com, @hotmail.com ETC"%(Y,G))
 		idx = input("%s DOMAIN  : "%(B))
@@ -383,7 +383,7 @@ class Main:
 			"Mozilla/5.0 (Linux; Android 10; Mi 9T Pro Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.181 Mobile Safari/537.36[FBAN/EMA;FBLC/it_IT;FBAV/239.0.0.10.109;]"
 		])
 		sys.stdout.write(
-			"\r\r %s\033[0;93m[>_] [KHAN] : \033[0;97m %s/%s -> \033[0;92m [KHAN -OK:%s ]- \033[0;93m[KHAN-CP:%s ]"%(B,self.loop, len(self.id), len(self.ok), len(self.cp))
+			"\r\r %s\033[0;93m[☠️MAINUL☠️] : \033[0;97m %s/%s -> \033[0;92m [MAINUL-OK🔥:%s ]- \033[0;93m[MAINUL-CP😿:%s ]"%(B,self.loop, len(self.id), len(self.ok), len(self.cp))
 		); sys.stdout.flush()
 		for pw in pwx:
 			pw = pw.lower()
