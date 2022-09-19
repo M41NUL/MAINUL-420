@@ -106,14 +106,16 @@ class Main:
 
 
 \033[1;93m🎭=======================☠️☠️☠️☠️=======================🎭
+
      \033[1;92m[☠️] \033[1;92mDEVOLPER : IT'S MAINUL ISLAM
      \033[1;91m[☠️] \033[1;91mFACEBOOK : MD MAINUL ISLAM 
      \033[1;93m[☠️] \033[1;93mWHATSAPP : +8801308850528
      \033[1;96m[☠️] \033[1;96mGITHUB   : M41NUL
      \033[1;95m[☠️] \033[1;95mTOOLS    : UID CLONE
+
 \033[96;1m🎭=======================☠️☠️☠️☠️=======================🎭
 """)
-		print("%s [%s🔥%s] %sTOOL NAME : %sUID CLON"%(G,R,G,Y,G))
+		print("%s [%s🔥%s] %sTOOL NAME : %sUID CLONE"%(G,R,G,Y,G))
 		print("%s [%s🔥%s] %sVERSION   : %s1.0"%(G,R,G,Y,G))
 		print("%s [%s🔥%s] %sYOUR KEY  : %s%s"%(G,R,G,Y,G,key))
 		print("%s [%s🔥%s] %sSTATUS    : %s"%(G,R,G,Y,stat)) 
